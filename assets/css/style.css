@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .intro {
-	background: url('../images/intro.png') center no-repeat;
+	background: url('../intro.png') center no-repeat;
 	background-size: cover;
 	margin-top: 84px;
 	padding-top: 160px;
@@ -119,7 +119,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .hero {
-	background: url('../images/hero.png') center no-repeat;
+	background: url('../hero.png') center no-repeat;
 	background-size: cover;
 
 }
